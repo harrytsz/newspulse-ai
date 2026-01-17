@@ -1,0 +1,9 @@
+
+{
+  "name": "NewsPulse AI",
+  "version": "0.1",
+  "description": "A sophisticated news platform featuring personalized recommendations, deep analytics, and professional content management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
