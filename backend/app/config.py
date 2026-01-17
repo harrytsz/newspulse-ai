@@ -23,7 +23,7 @@ class Settings(BaseSettings):
     
     # 应用配置
     environment: str = "development"
-    cors_origins: str = "*"
+    cors_origins: str = "http://localhost:5173,http://localhost:3000,https://newspulse-ai.vercel.app"
     api_prefix: str = "/api"
     
     class Config:
